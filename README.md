@@ -1,6 +1,6 @@
 📦 Order Aggregator System  
 
-A simple Order Aggregator System developed using Python.  
+A simple Order Aggregator System developed using Python.
 
 This project reads order data from a text file and generates a  
 product-wise summary report. It also handles invalid data  
